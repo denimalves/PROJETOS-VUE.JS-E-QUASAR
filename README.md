@@ -11,4 +11,6 @@ Backend: Node.js com Express
 Banco de Dados: SQLite
 Funcionalidades: Cadastro e listagem de produtos, clientes e funcionários, 
 Tela de cadastro de clientes com: Validação de CPF duplicado e Busca automática de endereço pelo CEP (via API externa)
-Integração entre frontend e backend via Axios
+Integração entre frontend e backend via Axios.
+Em desenvolvimento controle de acesso as telas por login, relatorios e historico de vendas.
+
