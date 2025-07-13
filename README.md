@@ -4,7 +4,15 @@ Frontend: Vue.js
 Banco de Dados: JSON (formato local ou mock de API)
 Funcionalidades: Cadastro de alunos e notas, Visualização de boletins, Interface simples e responsiva.
 
-02 - Sistema de Vendas
+02 - Agenda Online
+Descrição: Aplicativo moderno de agendamento de reuniões, eventos e tarefas;
+Frontend: Quasar Framework;
+Funcionalidades: Interface responsiva (desktop e mobile). Gerenciamento de agendamentos com calendário, formulários e impressão de relatórios. Login para consultar agendamentos;
+Objetivo: Oferecer uma experiência moderna e prática para organização de compromissos.
+Back-end: Node.js, Express
+Banco de Dados: SQLite
+
+03 - Sistema de Vendas
 Descrição: Aplicativo completo para gerenciamento de vendas, incluindo cadastro de produtos, clientes e funcionários.
 Frontend: Vue.js (Quasar Framework)
 Backend: Node.js com Express
