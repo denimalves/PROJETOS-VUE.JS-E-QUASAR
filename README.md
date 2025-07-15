@@ -13,7 +13,7 @@ Back-end: Node.js, Express
 Banco de Dados: SQLite
 
 03 - Sistema de Vendas
-Descrição: Aplicativo completo para gerenciamento de vendas, incluindo cadastro de produtos, clientes e funcionários.
+Descrição: Aplicativo completo de gerenciamento de vendas para Loja TecHouse, incluindo cadastro de produtos, clientes e funcionários.
 Frontend: Vue.js (Quasar Framework)
 Backend: Node.js com Express
 Banco de Dados: SQLite
@@ -21,4 +21,5 @@ Funcionalidades: Cadastro e listagem de produtos, clientes e funcionários,
 Tela de cadastro de clientes com: Validação de CPF duplicado e Busca automática de endereço pelo CEP (via API externa)
 Integração entre frontend e backend via Axios.
 Em desenvolvimento controle de acesso as telas por login, relatorios e historico de vendas.
+Em analise a implantação do Controle de estoque.
 
