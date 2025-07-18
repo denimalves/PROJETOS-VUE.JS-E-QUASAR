@@ -12,14 +12,20 @@ Objetivo: Oferecer uma experiência moderna e prática para organização de com
 Back-end: Node.js, Express
 Banco de Dados: SQLite
 
-03 - Sistema de Vendas
-Descrição: Aplicativo completo de gerenciamento de vendas para Loja TecHouse, incluindo cadastro de produtos, clientes e funcionários.
-Frontend: Vue.js (Quasar Framework)
+ 03 – Sistema de Vendas – TechHouse
+Descrição: Aplicativo completo para gerenciamento de vendas e atendimento na Loja TechHouse, desenvolvido para otimizar processos e facilitar o controle do negócio.
+Tecnologias Utilizadas:
+Frontend: Vue.js com Quasar Framework (SPA responsiva)
 Backend: Node.js com Express
 Banco de Dados: SQLite
-Funcionalidades: Cadastro e listagem de produtos, clientes e funcionários, 
-Tela de cadastro de clientes com: Validação de CPF duplicado e Busca automática de endereço pelo CEP (via API externa)
-Integração entre frontend e backend via Axios.
-Em desenvolvimento controle de acesso as telas por login, relatorios e historico de vendas.
-Em analise a implantação do Controle de estoque.
+Funcionalidades Principais:
+Cadastro e listagem de produtos, clientes e vendedores
+Tela de registro de vendas para compra de diversos itens com desconto e formas de pagamento (dinheiro, cartão, Pix)
+Histórico completo de vendas com filtros por funcionário e forma de pagamento.
+Emissão de relatórios em PDF.
+Acesso restrito via sistema de login com controle de permissões.
+Destaques:
+Tela de cadastro de clientes com validação de CPF duplicado
+Busca automática de endereço via CEP (consumo de API externa)
+Integração completa entre frontend e backend utilizando Axios
 
