@@ -28,4 +28,5 @@ Destaques:
 Tela de cadastro de clientes com validação de CPF duplicado;
 Busca automática de endereço via CEP (consumo de API externa);
 Integração completa entre frontend e backend utilizando Axios.
+Versão atualizada para opção de vendas online.
 
